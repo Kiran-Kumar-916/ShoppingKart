@@ -79,3 +79,43 @@ Handles views such as Categories, CategoriesCreatEdit, Index, MyCart, Payment, P
 
 ## Conclusion:
 The ShoppingKart application provides a comprehensive shopping experience with robust architecture, efficient data handling, and clean UI design. It’s a scalable solution with room for enhancements like -- categorize & show products as per user interests, provide search & filter options, add additional payment gateways etc.
+
+
+
+
+# Instructions to Run the ShoppingKart Project
+### Update appsettings.json:
+
+Open the appsettings.json file in your project.
+Replace Server name with your SQL Server instance name in ConnectionStrings under "DefaultConnection".
+Set the database name to ShoppingKart (or any other preferred name).
+
+### Restore NuGet Packages:
+Open the project in Visual Studio.
+Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
+Restore any missing dependencies.
+
+### Migrate Database (Code-First Approach):
+Open the Package Manager Console in Visual Studio (Tools > NuGet Package Manager > Package Manager Console).
+Run the following commands:
+
+_Add-Migration InitialCreate_
+_Update-Database_
+
+This will create the database schema in your SQL Server based on the ApplicationDbContext.cs.
+
+### Ensure Required Tables Exist:
+The database should now contain the following tables to store application data:
+- Users
+- Products
+- Categories
+- MyCartItems
+
+### Run the Application:
+Press F5 or click Start in Visual Studio.
+The application will launch in your default browser.
+
+### Access Admin Features:
+Login as a user to access features such as: Add to Cart, Buy Products etc.
+Use the Admin Login to manage products and categories. 
+
