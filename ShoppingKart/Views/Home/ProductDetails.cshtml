@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Product Details";
+}
+@model Product
+
+<div class="container my-5">
+    <div class="text-center">
+        <h1 class="display-4 fw-bold text-primary">Product Details</h1>
+        <p class="lead">Get all the details about your selected product below.</p>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <img src="~/images/products/@(Model.Name).png" class="card-img-top" alt="@Model.Name" style="height: 300px; object-fit: cover;">
+                <div class="card-body">
+                    <h4 class="card-title text-truncate">@Model.Name</h4>
+                    <p class="card-text text-muted">@Model.Description</p>
+                    <p class="card-text text-muted"><strong>Category:</strong> @Model.Category</p>
+                    <p class="card-text text-success fw-bold">Price: Rs.@Model.Price</p>
+                    <p class="card-text text-danger">Discount: @Model.Discount% off</p>
+                </div>
+                <div class="card-footer">
+                    <form asp-controller="Home" asp-action="DecideAction" asp-route-id="@Model.Id" method="POST" class="row g-2">
+                        <div class="col-12">
+                            <label for="quantity" class="form-label"><strong>Enter Quantity</strong></label>
+                            <input type="number" id="quantity" class="form-control" name="QuantityVariable" min="1" />
+                        </div>
+                        <div class="col-4 mt-3">
+                            <button type="submit" class="btn btn-success w-100" name="actions" value="Buy Now">Buy Now</button>
+                        </div>
+                        <div class="col-4 mt-3">
+                            <button type="submit" class="btn btn-primary w-100" name="actions" value="Add to Cart">Add to Cart</button>
+                        </div>
+                        <div class="col-4 mt-3">
+                            <a class="btn btn-danger w-100" asp-controller="Home" asp-action="Index">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\shoppingkart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:shoppingkart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\categoriescreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\categoriescreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\migrations\\20241116054303_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:migrations\\20241116054303_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\cartproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\cartproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:32:14.241Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:42:25.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Success.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T11:15:40.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:57:21.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:10:09.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-16T07:23:28.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T12:57:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginForm.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T12:32:57.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:19:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingKart.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
+              "RelativeDocumentMoniker": "ShoppingKart.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
+              "RelativeToolTip": "ShoppingKart.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T17:52:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:39:38.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:09:26.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesCreateEdit.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\CategoriesCreateEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CategoriesCreateEdit.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\CategoriesCreateEdit.cshtml",
+              "RelativeToolTip": "Views\\Home\\CategoriesCreateEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T06:57:01.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Account\\SignUp.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAABhwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:16:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:41:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Payment.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Payment.cshtml",
+              "RelativeToolTip": "Views\\Home\\Payment.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:57:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAWwBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T06:11:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAACBjwDsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:52:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyCart.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\MyCart.cs",
+              "RelativeDocumentMoniker": "Models\\MyCart.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\MyCart.cs",
+              "RelativeToolTip": "Models\\MyCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:33:24.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsCreateEdit.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductsCreateEdit.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductsCreateEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:44:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:20:22.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241116054303_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\20241116054303_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241116054303_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\20241116054303_InitialMigration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241116054303_InitialMigration.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAWwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:19:55.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:18:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:18:19.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:17:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T04:37:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyCart.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyCart.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyCart.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAMBtwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:59:56.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Categories.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Categories.cshtml",
+              "RelativeToolTip": "Views\\Home\\Categories.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T05:03:35.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:32:33.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:33:20.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:57:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartProductViewModel.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\CartProductViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CartProductViewModel.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\CartProductViewModel.cs",
+              "RelativeToolTip": "Models\\CartProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:20:29.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+}
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4 fw-bold text-primary">Categories</h1>
+    </div>
+
+    <!-- Create New Category Button -->
+    <div class="text-center mb-4">
+        <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="CategoriesCreateEdit">Create New Category</a>
+    </div>
+
+    <!-- Categories Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Tax Rate</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Id</td>
+                        <td>@p.Name</td>
+                        <td>@p.Description</td>
+                        <td>@p.TaxRate</td>
+                        <td>
+                            <!-- Action Buttons -->
+                            <a class="btn btn-success btn-sm" asp-controller="Home" asp-action="CategoriesCreateEdit" asp-route-id="@p.Id">Edit</a>
+                            <a class="btn btn-danger btn-sm" asp-controller="Home" asp-action="CategoriesDelete" asp-route-id="@p.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

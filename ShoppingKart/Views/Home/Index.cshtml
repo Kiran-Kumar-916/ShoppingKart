@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "ShoppingKart";
+}
+
+@model List<Product>
+
+<div class="container my-5">
+    <div class="text-center">
+        <h1 class="display-4 fw-bold text-primary">Welcome to ShoppingKart!</h1>
+        <p class="lead">Discover amazing products at unbeatable prices. Shop now!</p>
+    </div>
+
+    <div class="row g-4 mt-4" >
+        @foreach (var p in Model)
+        {
+            <div class="col-md-3 col-sm-6">
+                <div class="card h-100 shadow" >
+                    @* <img src="~/images/default-product.jpg" class="card-img-top" alt="@p.Name" style="height: 200px; object-fit: cover;"> *@
+                    <img src="~/images/products/@(p.Name).png" class="card-img-top" alt="@p.Name" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title text-truncate">@p.Name</h5>
+                        <p class="card-text text-muted">@p.Category</p>
+                        <p class="card-text fw-bold text-success">Rs.@p.Price</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a class="btn btn-primary btn-sm" asp-controller="Home" asp-action="ProductDetails" asp-route-id="@p.Id">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

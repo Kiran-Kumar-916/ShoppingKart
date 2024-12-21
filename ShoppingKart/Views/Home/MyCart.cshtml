@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "MyCart";
+}
+
+@model List<CartProductViewModel>
+
+<div class="container my-5">
+    <div class="text-center">
+        <h1 class="display-4 fw-bold text-primary">My Cart</h1>
+        <p class="lead">Review and edit your items before proceeding to checkout.</p>
+    </div>
+
+    <form asp-controller="Home" asp-action="MyCartEditForm" method="POST">
+        <div class="row g-4">
+            @for (int index = 0; index < Model.Count; index++)
+            {
+                <div class="col-md-4">
+                    <div class="card shadow-sm border-light">
+                        <div class="card-body">
+                            <!-- Product Details -->
+                            <h5 class="card-title text-truncate">@Model[index].ProdProperty.Name</h5>
+                            <p class="card-text text-muted">Product ID: @Model[index].CartProperty.ProductId</p>
+                            <p class="card-text fw-bold text-success">Rs.@Model[index].ProdProperty.Price</p>
+                            <p class="card-text text-danger">Discount: @Model[index].ProdProperty.Discount% off</p>
+
+                            <!-- Quantity Input -->
+                            <div class="mb-3">
+                                <label for="quantity" class="form-label"><strong>Quantity:</strong></label>
+                                <input type="number" id="quantity" class="form-control" name="Model[@index].CartProperty.SelectedQuantity" value="@Model[index].CartProperty.SelectedQuantity" min="1" />
+                            </div>
+
+                            <!-- Hidden Inputs (Cart & Product Details) -->
+                            <input type="hidden" name="Model[@index].CartProperty.Id" value="@Model[index].CartProperty.Id" />
+                            <input type="hidden" name="Model[@index].ProdProperty.Name" value="@Model[index].ProdProperty.Name" />
+                            <input type="hidden" name="Model[@index].ProdProperty.Price" value="@Model[index].ProdProperty.Price" />
+                            <input type="hidden" name="Model[@index].ProdProperty.Discount" value="@Model[index].ProdProperty.Discount" />
+
+                            <!-- Remove Button -->
+                            @* <a class="btn btn-danger btn-sm w-100" href="#">Remove Item</a> *@
+                            <a class="btn btn-danger btn-sm w-100" asp-controller="Home" asp-action="MyCartDeleteForm" asp-route-id="@Model[index].CartProperty.Id">Remove Item</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Submit Button -->
+        <div class="d-flex justify-content-center mt-4">
+            <button type="submit" class="btn btn-success btn-lg w-50">Proceed to Payment</button>
+        </div>
+    </form>
+</div>

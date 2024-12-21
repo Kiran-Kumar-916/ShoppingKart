@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+}
+
+@model FirstMVCapp.Models.User
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4 fw-bold text-primary">Profile</h1>
+    </div>
+
+    <!-- Form Start -->
+    <form asp-controller="Account" asp-action="UserProfileEditForm" method="POST">
+        <div class="row">
+            <!-- Hidden Id Field -->
+            <input hidden type="number" class="form-control" placeholder="0" asp-for="Id" />
+
+            <!-- User Name -->
+            <div class="col-md-6 mb-3">
+                <label for="UserName" class="form-label">Username</label>
+                <input type="text" class="form-control" placeholder="Enter Username" asp-for="UserName" readonly />
+            </div>
+
+            <!-- Full Name -->
+            <div class="col-md-6 mb-3">
+                <label for="FullName" class="form-label">Fullname</label>
+                <input type="text" class="form-control" placeholder="Enter Fullname" asp-for="FullName" />
+            </div>
+
+            <!-- Email -->
+            <div class="col-md-6 mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="text" class="form-control" placeholder="Enter Email" asp-for="Email" />
+            </div>
+
+            <!-- Phone Number -->
+            <div class="col-md-6 mb-3">
+                <label for="PhoneNum" class="form-label">Phone Number</label>
+                <input type="text" class="form-control" placeholder="Enter Phone Number" asp-for="PhoneNum" />
+            </div>
+
+
+
+            <!-- Address -->
+            <div class="col-md-6 mb-3">
+                <label for="Address" class="form-label">Address</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Address" asp-for="Address" />
+            </div>
+
+            @* <div class="col-md-6 mb-3">
+                <label for="Password" class="form-label">Password</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Password" asp-for="PasswordHash" />
+            </div> *@
+            
+            @*< !-- Change Password -->
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <div class="input-group">
+                    <input type="password" id="Password" name="Password" class="form-control" placeholder="Enter Password" required>
+                    <button type="button" class="btn btn-outline-secondary" id="togglePassword">
+                        <i class="bi bi-eye">show password</i>
+                    </button>
+                </div>
+            </div>*@ 
+
+            <!-- Submit Button -->
+            <div class="col-12 text-center mb-4">
+                <button class="btn btn-primary btn-lg" type="submit">Update Profile</button>
+            </div>
+        </div>
+    </form>
+</div>

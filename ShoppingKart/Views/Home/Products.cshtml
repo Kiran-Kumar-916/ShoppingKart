@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4 fw-bold text-primary">Products</h1>
+    </div>
+
+    <!-- Create New Button -->
+    <div class="text-center mb-4">
+        <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="ProductsCreateEdit">Create New Product</a>
+    </div>
+
+    <!-- Product Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Id</td>
+                        <td>@p.Name</td>
+                        <td>@p.Description</td>
+                        <td>@p.Category</td>
+                        <td>Rs. @p.Price</td>
+                        <td>
+                            <!-- Action Buttons -->
+                            <a class="btn btn-success btn-sm" asp-controller="Home" asp-action="ProductsCreateEdit" asp-route-id="@p.Id">Edit</a>
+                            <a class="btn btn-danger btn-sm" asp-controller="Home" asp-action="ProductsDelete" asp-route-id="@p.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

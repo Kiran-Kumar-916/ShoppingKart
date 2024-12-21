@@ -1,0 +1,95 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+}
+
+@model List<CartProductViewModel>
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center">
+        <h1 class="display-4 fw-bold text-primary">Payment Options</h1>
+    </div>
+
+    <!-- Grand Total -->
+    <div class="text-center my-4">
+        <em>
+            <h2 class="fw-bold text-success">Grand Total: Rs. @ViewBag.GrandTotal</h2>
+        </em>
+    </div>
+
+    <!-- Product Summary Section -->
+    <div class="card shadow-sm p-4 mb-4">
+        <h3 class="text-center text-info">Invoice Summary</h3>
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Discount</th>
+                        <th>Tax Rate</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                 <tbody>
+                    @* @Html.Raw(ViewBag.InvoiceSummary) *@
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <th>@item.ProdProperty.Name</th>
+                        <th>@item.ProdProperty.Price</th>
+                        <th>@item.CartProperty.SelectedQuantity</th>
+                        <th>@item.ProdProperty.Discount</th>
+                        <th>0</th>
+
+                            @{
+                                decimal totalDiscount = (@item.ProdProperty.Price * @item.CartProperty.SelectedQuantity) * @item.ProdProperty.Discount / 100;
+                            }
+
+                            <th>@totalDiscount</th>
+                    </tr>
+                    }
+                </tbody> 
+            </table>
+        </div>
+    </div>
+
+    <!-- Payment Options Section -->
+    <div class="card shadow-sm p-4">
+        <h3 class="text-center text-primary">Select Payment Method</h3>
+        <form asp-controller="Home" asp-action="Success" method="POST">
+            <div class="d-flex justify-content-between mb-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="PaymentOpt" id="debitCard" value="DebitCard">
+                    <label class="form-check-label" for="debitCard">
+                        Debit Card
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="PaymentOpt" id="creditCard" value="CreditCard">
+                    <label class="form-check-label" for="creditCard">
+                        Credit Card
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="PaymentOpt" id="googlePay" value="Googlepay">
+                    <label class="form-check-label" for="googlePay">
+                        Google Pay
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="PaymentOpt" id="rupay" value="Rupay">
+                    <label class="form-check-label" for="rupay">
+                        Rupay
+                    </label>
+                </div>
+            </div>
+
+            <!-- Proceed Button -->
+            <div class="d-flex justify-content-center">
+                <button type="submit" class="btn btn-success btn-lg w-50">Proceed to Payment</button>
+            </div>
+        </form>
+    </div>
+</div>

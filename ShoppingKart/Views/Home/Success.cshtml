@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Successful Transaction";
+}
+@model FirstMVCapp.Models.User
+
+<div class="container text-center my-5">
+    <!-- Success Message -->
+    <div class="alert alert-success p-4 rounded shadow">
+        <h1 class="display-4 fw-bold text-success">Payment Successful! through @ViewBag.PaymentOpt.</h1>
+        <p class="fs-4">Thank you for shopping with <strong>ShoppingKart</strong>.</p>
+    </div>
+
+    <!-- Icon or Image -->
+    <div class="my-4">
+        <i class="bi bi-bag-check-fill text-success" style="font-size: 4rem;"></i>
+        <!-- Uncomment and replace with an image if preferred -->
+        <!-- <img src="success-icon.png" alt="Success" class="img-fluid" style="max-width: 100px;"> -->
+    </div>
+
+    <!-- Additional Info -->
+    <p class="fs-5">
+        Dear @User.Identity.Name, Your order has been successfully processed, and a confirmation email has been sent to your registered email address.
+    </p>
+
+    <p class="fs-5">
+        Product will be delivered to the below address detail within 3 working days.
+    </p>
+    <p>Full Name:  @Model.FullName</p>
+    <p>Phone Number:  @Model.PhoneNum</p>
+    <p>Email:  @Model.Email</p>
+    <p>Address:  @Model.Address</p>
+    
+
+    <hr class="my-4">
+
+    <!-- Action Buttons -->
+    <div class="d-flex justify-content-center gap-3">
+        <a href="/" class="btn btn-primary btn-lg">Continue Shopping</a>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Customers Create/Edit";
+}
+
+@model FirstMVCapp.Models.Customer
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4 fw-bold text-primary">Create/Edit Customer</h1>
+    </div>
+
+    <!-- Form Start -->
+    <form asp-controller="Home" asp-action="CustomersCreateEditForm" method="POST">
+        <div class="row">
+            <!-- Hidden Id Field -->
+            <input hidden type="number" class="form-control" placeholder="0" asp-for="Id" />
+
+            <!-- Customer Name -->
+            <div class="col-md-6 mb-3">
+                <label for="Name" class="form-label">Customer Name</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Name" asp-for="Name" />
+            </div>
+
+            <!-- Customer Address -->
+            <div class="col-md-6 mb-3">
+                <label for="Address" class="form-label">Address</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Address" asp-for="Address" />
+            </div>
+
+            <!-- Customer Email -->
+            <div class="col-md-6 mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Email" asp-for="Email" />
+            </div>
+
+            <!-- Customer Phone Number -->
+            <div class="col-md-6 mb-3">
+                <label for="PhoneNum" class="form-label">Phone Number</label>
+                <input type="text" class="form-control" placeholder="Enter Customer Phone Number" asp-for="PhoneNum" />
+            </div>
+
+            <!-- Submit Button -->
+            <div class="col-12 text-center mb-4">
+                <button class="btn btn-primary btn-lg" type="submit">Save Customer</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Categories Create/Edit";
+}
+
+@model FirstMVCapp.Models.Category
+
+<div class="container my-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4 fw-bold text-primary">Create/Edit Category</h1>
+    </div>
+
+    <!-- Form Start -->
+    <form asp-controller="Home" asp-action="CategoriesCreateEditForm" method="POST">
+        <div class="row">
+            <!-- Hidden Id Field -->
+            <input hidden type="number" class="form-control" placeholder="0" asp-for="Id" />
+
+            <!-- Category Name -->
+            <div class="col-md-6 mb-3">
+                <label for="Name" class="form-label">Category Name</label>
+                <input type="text" class="form-control" placeholder="Enter Category Name" asp-for="Name" />
+            </div>
+
+            <!-- Category Description -->
+            <div class="col-md-6 mb-3">
+                <label for="Description" class="form-label">Description</label>
+                <input type="text" class="form-control" placeholder="Enter Category Description" asp-for="Description" />
+            </div>
+
+            <!-- Tax Rate -->
+            <div class="col-md-6 mb-3">
+                <label for="TaxRate" class="form-label">Tax Rate</label>
+                <input type="text" class="form-control" placeholder="Enter Tax Rate" asp-for="TaxRate" />
+            </div>
+
+            <!-- Submit Button -->
+            <div class="col-12 text-center mb-4">
+                <button class="btn btn-primary btn-lg" type="submit">Save Category</button>
+            </div>
+        </div>
+    </form>
+</div>
