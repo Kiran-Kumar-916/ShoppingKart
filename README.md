@@ -1,46 +1,45 @@
 # ShoppingKart
 ASP.NET MVC application, built using .NET 8.0 and crafted in C# on Visual Studio 2022. This application is to discover amazing products at unbeatable prices.
 
-##Project Overview
+# Project Overview
 The ShoppingKart application is a fully functional e-commerce platform developed using the ASP.NET MVC framework. It enables customers to log in, explore a range of products, add them to a shopping cart, and complete their purchase by choosing from various payment options. The application emphasizes modularity, maintainability, and scalability by implementing Dependency Injection (DI) and following the MVC architectural pattern.
 
-##Key Features:
+## Key Features:
 
-User Authentication:
+### User Authentication:
 
 Login and Signup functionality for customers.
 Admin Login functionality to manage product and category creation, updation, and deletion.
 Account Profile management.
 
-Product Management:
+### Product Management:
 
-Browse products by category.
-View detailed product descriptions.
+Browse products and view detailed product descriptions.
 
-Cart Management:
+### Cart Management:
 
 Add products to the shopping cart.
 View and update the cart (e.g., quantity changes, product removal).
 
-Order Placement:
+### Order Placement:
 
 Proceed to checkout.
 Choose payment methods and complete the purchase.
 
-Application Configuration:
+### Application Configuration:
 Connection settings, including server name and database name (ShoppingKart), are managed in appsettings.json.
 
-Technology Stack:
+### Technology Stack:
 Framework: ASP.NET MVC
 Database: SQL Server
 Dependency Injection: Configured using ASP.NET Core DI container
 ORM: Entity Framework Core
 Frontend: Razor Views
 
-Database Context:
+### Database Context:
 ApplicationDbContext.cs: This class serves as the central point for database access, mapping models such as Category, Product, MyCart, and User to corresponding database tables.
 
-#Models:
+## Models:
 ApplicationDbContext.cs: Defines the database context and manages entity configurations.
 CartProductViewModel: Represents the data structure combining product and cart details.
 Category: Represents product categories.
@@ -50,7 +49,7 @@ Product: Represents individual product details.
 User.cs: Manages customer information, including authentication and profile details.
 
 
-#Views:
+## Views:
 Accounts Folder:
 Loginform.cshtml: For user login.
 Profile.cshtml: Displays and manages user profile.
@@ -66,21 +65,21 @@ ProductCreatEdit.cshtml: For creating and editing product details.
 Success.cshtml: Order confirmation view.
 
 
-#Controllers:
-AccountController:
+## Controllers:
+### AccountController:
 
 Manages authentication, including login, signup, and profile updates.
 Handles views like Loginform.cshtml, Profile.cshtml, and SignUp.cshtml.
 
-HomeController:
+### HomeController:
 
 Manages the main shopping flow, including category and product displays, cart handling, and order placement.
 Handles views such as Categories, CategoriesCreatEdit, Index, MyCart, Payment, Privacy, Products, Productdetails, ProductCreatEdit, and Success.cshtml.
 
-#Database Connection:
+## Database Connection:
 Managed in appsettings.json with details for the server and database (ShoppingKart).
 Dependency Injection:
 Configured for services like DbContext and application-specific dependencies.
 
-#Conclusion:
+## Conclusion:
 The ShoppingKart application provides a comprehensive shopping experience with robust architecture, efficient data handling, and clean UI design. It’s a scalable solution with room for enhancements like categorize & show products as per user interesets, provide search & filter options, add additional payment gateways etc.
