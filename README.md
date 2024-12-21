@@ -86,7 +86,7 @@ The ShoppingKart application provides a comprehensive shopping experience with r
 # Instructions to Run the ShoppingKart Project
 ### Update appsettings.json:
 
-Open the appsettings.json file in your project.
+Open the appsettings.json file in the project.
 Replace Server name with your SQL Server instance name in ConnectionStrings under "DefaultConnection".
 Set the database name to ShoppingKart (or any other preferred name).
 
@@ -99,8 +99,8 @@ Restore any missing dependencies.
 Open the Package Manager Console in Visual Studio (Tools > NuGet Package Manager > Package Manager Console).
 Run the following commands:
 
-_Add-Migration InitialCreate_
-_Update-Database_
+_Add-Migration InitialCreate_  
+_Update-Database_  
 
 This will create the database schema in your SQL Server based on the ApplicationDbContext.cs.
 
