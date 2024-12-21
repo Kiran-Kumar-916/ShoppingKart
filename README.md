@@ -26,21 +26,19 @@ View and update the cart (e.g., quantity changes, product removal).
 Proceed to checkout.
 Choose payment methods and complete the purchase.
 
-### Application Configuration:
-Connection settings, including server name and database name (ShoppingKart), are managed in appsettings.json.
 
-### Technology Stack:
-Framework: ASP.NET MVC
-Database: SQL Server
-Dependency Injection: Configured using ASP.NET Core DI container
-ORM: Entity Framework Core
-Frontend: Razor Views
+## Technology Stack:
+* Framework: ASP.NET MVC
+* Database: SQL Server
+* Database Connection: Managed in appsettings.json with details for the server and database (ShoppingKart).
+* Dependency Injection: Configured using ASP.NET Core DI container for services like DbContext and application-specific dependencies.
+* ORM: Entity Framework Core
+* Frontend: Razor Views
 
-### Database Context:
-ApplicationDbContext.cs: This class serves as the central point for database access, mapping models such as Category, Product, MyCart, and User to corresponding database tables.
+
 
 ## Models:
-* ApplicationDbContext.cs: Defines the database context and manages entity configurations.
+* ApplicationDbContext.cs: Defines the database context and manages entity configurations. This class serves as the central point for database access, mapping models such as Category, Product, MyCart, and User to corresponding database tables.
 * User.cs: Manages customer information, including authentication and profile details.
 * Product.cs: Represents individual product details.
 * Category.cs: Represents product categories.
@@ -77,10 +75,7 @@ Handles views like Loginform.cshtml, Profile.cshtml, and SignUp.cshtml.
 Manages the main shopping flow, including category and product displays, cart handling, and order placement.
 Handles views such as Categories, CategoriesCreatEdit, Index, MyCart, Payment, Privacy, Products, Productdetails, ProductCreatEdit, and Success.cshtml.
 
-## Database Connection:
-Managed in appsettings.json with details for the server and database (ShoppingKart).
-Dependency Injection:
-Configured for services like DbContext and application-specific dependencies.
+
 
 ## Conclusion:
 The ShoppingKart application provides a comprehensive shopping experience with robust architecture, efficient data handling, and clean UI design. It’s a scalable solution with room for enhancements like -- categorize & show products as per user interests, provide search & filter options, add additional payment gateways etc.
