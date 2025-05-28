@@ -4,7 +4,7 @@ ASP.NET MVC application, built using .NET 8.0 and crafted in C# on Visual Studio
 # Project Overview
 The ShoppingKart application is a fully functional e-commerce platform developed using the ASP.NET MVC framework. It enables customers to log in, explore a range of products, add them to a shopping cart, and complete their purchase by choosing from various payment options. The application emphasizes modularity, maintainability, and scalability by implementing Dependency Injection (DI) and following the MVC architectural pattern.
 
-#URL : https://shoppingkart.azurewebsites.net/
+#ShoppingKart URL : https://shoppingkart.azurewebsites.net/
 
 
 ## Key Features:
