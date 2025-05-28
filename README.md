@@ -161,6 +161,48 @@ The database should now contain the following tables to store application data:
 Press F5 or click Start in Visual Studio.
 The application will launch in your default browser.
 
+
+
+# Screenshots
+Below are key screenshots showcasing different pages of the application.
+
+## **Categories Page**
+![Categories Page](wwwroot/images/Project%20Screenshots/CategoriesPage.png)
+
+## **Create/Edit Categories Page**
+![Create/Edit Categories Page](wwwroot/images/Project%20Screenshots/CreateEditCategoriesPage.png)
+
+## **Create/Edit Products Page**
+![Create/Edit Products Page](wwwroot/images/Project%20Screenshots/CreateEditProductsPage.png)
+
+## **Home Page**
+![Home Page - View 1](wwwroot/images/Project%20Screenshots/HomePage_1.png)  
+![Home Page - View 2](wwwroot/images/Project%20Screenshots/HomePage_2.png)
+
+## **Login Page**
+![Login Page](wwwroot/images/Project%20Screenshots/LoginPage.png)
+
+## **My Cart Page**
+![My Cart Page](wwwroot/images/Project%20Screenshots/MyCartPage.png)
+
+## **Payment Options Page**
+![Payment Options Page](wwwroot/images/Project%20Screenshots/PaymentOptionsPage.png)
+
+## **Payment Success Page**
+![Payment Success Page](wwwroot/images/Project%20Screenshots/PaymentSuccessPage.png)
+
+## **Product Details Page**
+![Product Details](wwwroot/images/Project%20Screenshots/ProductDetails_2.png)
+
+## **Products Page**
+![Products Page](wwwroot/images/Project%20Screenshots/ProductsPage.png)
+
+## **Profile Page**
+![Profile Page](wwwroot/images/Project%20Screenshots/ProfilePage.png)
+
+## **Sign-Up Page**
+![Sign-Up Page](wwwroot/images/Project%20Screenshots/SignUpPage.png)
+
 ### Access Admin Features:
 Login as a user to access features such as: Add to Cart, Buy Products etc.
 Use the Admin Login to manage products and categories. 
