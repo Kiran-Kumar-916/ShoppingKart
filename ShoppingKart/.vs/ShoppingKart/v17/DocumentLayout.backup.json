@@ -1,134 +1,278 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\",
+  "WorkspaceRootPath": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\shoppingkart.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:shoppingkart.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\shoppingkart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:shoppingkart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\zph53zn1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CategoryServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\categoriescreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\categoriescreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\ProductServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\MyCartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\migrations\\20241116054303_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:migrations\\20241116054303_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\MyCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\ShoppingKart.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\UserServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|c:\\kiran kumar\\development\\code\\shoppingkart\\shoppingkart\\models\\cartproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.csproj|solutionrelative:models\\cartproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\businesslogic\\paymentbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\exceptions\\customappexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\1 - customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\cartproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\mycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\account\\loginform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\1- customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\1- customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\productscreateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\repository\\cartproductviewmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\repository\\mycartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\shoppingkart.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\services\\cartproductviewmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\interfaces\\icartproductviewmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09CDA5C-279B-47FB-98A9-0E404EE905BE}|..\\ShoppingKart.Core\\ShoppingKart.Core.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.core\\interfaces\\icartproductviewmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2570294-A762-4D5D-AC59-163F6AD2722D}|..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.bll\\services\\mycartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E873DB0-D91E-485E-8933-54501D029011}|..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart.dal\\shoppingkart.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|c:\\kiran kumar\\development\\code\\copy \u0026 develop git local repo project here\\shoppingkart - 02-03-2025  12-05 pm\\shoppingkart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3136DCE6-1462-4609-9A36-A3D0D3DF4F3F}|ShoppingKart.UI.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,355 +281,525 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 232,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:32:14.241Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Products.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Products.cshtml",
-              "RelativeToolTip": "Views\\Home\\Products.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:42:25.134Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Success.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Success.cshtml",
-              "RelativeToolTip": "Views\\Home\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T11:15:40.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T17:57:21.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwBkAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:10:09.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T09:00:01.055Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:26:47.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-16T07:23:28.555Z"
+              "Title": "ShoppingKart.UI.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\ShoppingKart.UI.csproj",
+              "RelativeDocumentMoniker": "ShoppingKart.UI.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\ShoppingKart.UI.csproj",
+              "RelativeToolTip": "ShoppingKart.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T17:52:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:52:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T04:37:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zph53zn1..sql",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\zph53zn1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\dell\\AppData\\Local\\Temp\\zph53zn1..sql",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\zph53zn1..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\dell\\AppData\\Local\\Temp\\zph53zn1..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T19:49:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvyQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:00:06.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:00:53.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T12:57:03.313Z"
+              "WhenOpened": "2025-03-02T09:01:01.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginForm.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\LoginForm.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
-              "RelativeToolTip": "Views\\Account\\LoginForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T12:32:57.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T12:19:00.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingKart.csproj",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
-              "RelativeDocumentMoniker": "ShoppingKart.csproj",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
-              "RelativeToolTip": "ShoppingKart.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T17:52:57.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\Profile.cshtml",
-              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAkwDAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T10:39:38.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T13:09:26.248Z"
+              "WhenOpened": "2025-02-26T05:55:47.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoriesCreateEdit.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\CategoriesCreateEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\CategoriesCreateEdit.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\CategoriesCreateEdit.cshtml",
-              "RelativeToolTip": "Views\\Home\\CategoriesCreateEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T06:57:01.951Z"
+              "DocumentIndex": 38,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:51:47.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 39,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:40:41.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:39:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomAppException.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Exceptions\\CustomAppException.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Exceptions\\CustomAppException.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Exceptions\\CustomAppException.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Exceptions\\CustomAppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:42:51.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:36:18.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:33:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "1 - Customer.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\1 - Customer.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\1 - Customer.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\1 - Customer.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\1 - Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:33:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartProductViewModel.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\CartProductViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\CartProductViewModel.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\CartProductViewModel.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\CartProductViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:32:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\Category.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:31:52.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:16:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MyCart.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:31:39.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:08:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Models\\Product.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:28:38.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\SignUp.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\SignUp.cshtml",
               "RelativeToolTip": "Views\\Account\\SignUp.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAABhwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T07:16:36.368Z"
+              "WhenOpened": "2025-05-25T16:40:35.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 52,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAABBwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:55:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginForm.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginForm.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Account\\LoginForm.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginForm.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:45:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MyCart.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyCart.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyCart.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:33:30.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Payment.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Payment.cshtml",
+              "RelativeToolTip": "Views\\Home\\Payment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:14:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:41:17.059Z"
+              "WhenOpened": "2025-03-23T12:31:17.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Payment.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Payment.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Payment.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Payment.cshtml",
-              "RelativeToolTip": "Views\\Home\\Payment.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 57,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwBcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T11:57:43.716Z"
+              "WhenOpened": "2025-03-23T12:11:02.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "additional-methods.js",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ViewState": "AgIAAAgBAAAAAAAAAAAWwBABAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-01T06:11:51.144Z"
+              "DocumentIndex": 58,
+              "Title": "1- Customers.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\1- Customers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\1- Customers.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\1- Customers.cshtml",
+              "RelativeToolTip": "Views\\Home\\1- Customers.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:32:58.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAACBjwDsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:52:16.932Z"
+              "DocumentIndex": 59,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Categories.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Categories.cshtml",
+              "RelativeToolTip": "Views\\Home\\Categories.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAABBwCYAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:32:29.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MyCart.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\MyCart.cs",
-              "RelativeDocumentMoniker": "Models\\MyCart.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\MyCart.cs",
-              "RelativeToolTip": "Models\\MyCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:33:24.758Z"
+              "DocumentIndex": 60,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAD4vygAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T08:59:58.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 61,
               "Title": "ProductsCreateEdit.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ProductsCreateEdit.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\ProductsCreateEdit.cshtml",
               "RelativeToolTip": "Views\\Home\\ProductsCreateEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwDsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:44:48.102Z"
+              "WhenOpened": "2025-03-23T11:25:49.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAWwC4AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 62,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:18:43.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:20:22.903Z"
+              "WhenOpened": "2025-03-02T07:36:59.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20241116054303_InitialMigration.Designer.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\20241116054303_InitialMigration.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241116054303_InitialMigration.Designer.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Migrations\\20241116054303_InitialMigration.Designer.cs",
-              "RelativeToolTip": "Migrations\\20241116054303_InitialMigration.Designer.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAWwDEAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 64,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:19:55.976Z"
+              "WhenOpened": "2025-03-02T07:30:27.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 65,
+              "Title": "CartProductViewModelRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:36:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MyCartRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\MyCartRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\Repository\\MyCartRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\Repository\\MyCartRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\Repository\\MyCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:30:34.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ShoppingKart.BLL.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T17:14:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T07:18:21.546Z"
+              "WhenOpened": "2025-03-02T09:00:46.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 69,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T07:18:19.905Z"
+              "WhenOpened": "2025-03-02T09:00:35.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:17:58.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-16T04:37:19.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MyCart.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\MyCart.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\MyCart.cshtml",
-              "RelativeToolTip": "Views\\Home\\MyCart.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAMBtwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:59:56.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Categories.cshtml",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Categories.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Categories.cshtml",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Views\\Home\\Categories.cshtml",
-              "RelativeToolTip": "Views\\Home\\Categories.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T05:03:35.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 70,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "GlobalUsings.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\GlobalUsings.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\GlobalUsings.cs",
               "RelativeToolTip": "GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -493,39 +807,444 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 71,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:33:20.125Z"
+              "WhenOpened": "2025-03-02T07:26:59.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T17:56:52.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Success.cshtml",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:25:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-16T07:23:28.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CartProductViewModelServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:32:24.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ICartProductViewModelServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:49:33.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ICartProductViewModelRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "RelativeToolTip": "..\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:47:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:32:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "MyCartServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "RelativeToolTip": "..\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:28:06.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ShoppingKart.DAL.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "RelativeToolTip": "..\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T06:40:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CategoryRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:43:23.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:49:37.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICategoryRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:48:58.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CategoryServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:38:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Category.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:17:52.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\ProductRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:54:23.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartProductViewModelRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\CartProductViewModelRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:21:30.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartProductViewModelServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\CartProductViewModelServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:21:57.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\ProductServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:34:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyCartServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\MyCartServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:04:48.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Data\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:02:33.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:42:31.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IProductRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:41:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:17:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:17:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyCart.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Models\\MyCart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:17:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShoppingKart.Core.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\ShoppingKart.Core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\ShoppingKart.Core.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\ShoppingKart.Core.csproj",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\ShoppingKart.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T09:15:40.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingKart.BLL.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\ShoppingKart.BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T05:58:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingKart.DAL.csproj",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\ShoppingKart.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T06:09:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 02-03-2025  12-05 PM\\ShoppingKart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAWwBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T06:11:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.DAL\\Repository\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:16:38.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\BusinessLogic\\PaymentBusinessLogic.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:03:02.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.BLL\\Services\\UserServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:16:30.909Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Title": "ICartProductViewModelRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelRepository.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:57:19.957Z"
+              "WhenOpened": "2025-02-26T12:19:43.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "CartProductViewModel.cs",
-              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\CartProductViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\CartProductViewModel.cs",
-              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\ShoppingKart\\ShoppingKart\\Models\\CartProductViewModel.cs",
-              "RelativeToolTip": "Models\\CartProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "ICartProductViewModelServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\ICartProductViewModelServices.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:20:29.981Z"
+              "WhenOpened": "2025-02-26T12:20:24.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMyCartServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:04:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMyCartRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IMyCartRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:04:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:14:33.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy \u0026 Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "..\\..\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart.Core\\Interfaces\\IUserServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:15:00.677Z"
             }
           ]
         }

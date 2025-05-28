@@ -1,80 +1,127 @@
-using FirstMVCapp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Diagnostics;
 using Newtonsoft.Json;
+using ShoppingKart.DAL.Data;
+using ShoppingKart.Core.Interfaces;
+using ShoppingKart.BLL.Services;
+using ShoppingKart.Core.Models;
+using ShoppingKart.BLL.BusinessLogic;
+using ShoppingKart.Core.Exceptions;
+using Azure.Core;
 
-
-namespace FirstMVCapp.Controllers
+namespace ShoppingKart.UI.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IProductServices _productServices;
+        private readonly ICategoryServices _categoryServices;
+        private readonly IMyCartServices _myCartServices;
+        private readonly ICartProductViewModelServices _CartProductViewModelServices;
+        private readonly IUserServices _userServices;
         private readonly ILogger<HomeController> _logger;
-        private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
+        public HomeController(IProductServices productServices, ICategoryServices categoryServices, IMyCartServices myCartServices , IUserServices userServices, ILogger<HomeController> logger, ICartProductViewModelServices CartProductViewModelServices)
         {
+            _productServices = productServices;
+            _categoryServices = categoryServices;
+            _myCartServices = myCartServices;
+            _CartProductViewModelServices = CartProductViewModelServices;
+            _userServices = userServices;
             _logger = logger;
-            _context = context;
+            
         }
 
         public IActionResult Index()
         {
-            var AllProducts = _context.Products.ToList();
-            return View(AllProducts);
+            try
+            {
+            var AllProducts = _productServices.GetAllProducts();
+                foreach (var i in AllProducts)
+                    {
+                    ViewBag.Z = i.Price;
+                }
+                return View(AllProducts);
+            }
+            catch (Exception ex)
+            {
+                //var model = new ErrorViewModel 
+                //{ 
+                //    Message = ex.Message,
+                //    StackTrace=ex.StackTrace
+                //};
+                //ViewBag.ErrorMessage = "Other Error -> " + ex.Message;
+                //return View("Error", model);
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         ///////////////////////////////////////////////////////////////////////////////////
         public IActionResult Products()
         {
-            if (HttpContext.Session.GetString("Role") != "Admin")
-            {
-                return Unauthorized("You do not have permission to access this page. Please login as Admin.");
-            }
+            try
+            { 
+                if (HttpContext.Session.GetString("Role") != "Admin")
+                {
+                    return Unauthorized("You do not have permission to access this page. Please login as Admin.");
+                }
 
-            var AllProducts = _context.Products.ToList();
-            return View(AllProducts);
+                var AllProducts = _productServices.GetAllProducts();
+                return View(AllProducts);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         public IActionResult ProductsCreateEdit(int? Id)
         {
-            if (Id != null)
+            try
             {
-                var EditProduct = _context.Products.FirstOrDefault(i => i.Id == Id);
+                if (Id != null) 
+                {
+                var EditProduct = _productServices.GetProductById(Id.Value);
                 return View(EditProduct);
+                }
+                return View();
             }
-
-            return View();
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
-        public IActionResult ProductsCreateEditForm(Product? model)
+        public IActionResult ProductsCreateEditForm(Product? product)
         {
-
-            //if (!ModelState.IsValid)
-            //{
-            //    return RedirectToAction("ProductsCreateEdit");
-            //}
-
-            if (model.Id == 0)
+            try
             {
+                //if (!ModelState.IsValid)
+                //{
+                //    return RedirectToAction("ProductsCreateEdit");
+                //}
+
+                if (product.Id == 0)
+                {
                 //_context.Products.Name = model.Name;
                 //_context.Products.Description = model.Description;
                 //_context.Products.Category = model.Category;
                 //_context.Products.Price = model.Price;
                 //_context.SaveChanges();
+                    _productServices.AddProduct(product);
+                }
+                else
+                {
+                    _productServices.UpdateProduct(product);
+                }
 
-                
-                _context.Products.Add(model);
-                _context.SaveChanges();
+                return RedirectToAction("Products");
             }
-            else
+            catch (Exception ex)
             {
-                _context.Products.Update(model);
-                _context.SaveChanges();
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
             }
-        
-            return RedirectToAction("Products");
         }
 
         //public IActionResult ProductsEdit(int Id)
@@ -88,48 +135,68 @@ namespace FirstMVCapp.Controllers
 
         public IActionResult ProductsDelete(int Id)
         {
-            if (Id != null)
+            try
             {
-                var DeleteProduct = _context.Products.FirstOrDefault(i => i.Id == Id);
-                _context.Products.Remove(DeleteProduct);
-                _context.SaveChanges();
-            }
+                if (Id != null)
+                {
+                    _productServices.DeleteProduct(Id);
+                }
 
-            return RedirectToAction("Products");
+                return RedirectToAction("Products");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
         ///////////////////////////////////////////////////////////////////////////////////
 
         public IActionResult Categories()
         {
-            if (HttpContext.Session.GetString("Role") != "Admin")
+            try
             {
-                return Unauthorized("You do not have permission to access this page. Please login as Admin.");
-            }
+                if (HttpContext.Session.GetString("Role") != "Admin")
+                {
+                    return Unauthorized("You do not have permission to access this page. Please login as Admin.");
+                }
 
-            var AllCategories = _context.Categories.ToList();
-            return View(AllCategories);
+                var AllCategories = _categoryServices.GetAllCategories();
+                return View(AllCategories);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         public IActionResult CategoriesCreateEdit(int? Id)
         {
-            if (Id != null)
+            try
             {
-                var EditCategory = _context.Categories.FirstOrDefault(i => i.Id == Id);
-                return View(EditCategory);
-            }
+                if (Id != null)
+                {
+                    var EditCategory = _categoryServices.GetCategoryById(Id.Value);
+                    return View(EditCategory);
+                }
 
-            return View();
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
-        public IActionResult CategoriesCreateEditForm(Category? model)
+        public IActionResult CategoriesCreateEditForm(Category? category)
         {
 
             //if (!ModelState.IsValid)
             //{
             //    return RedirectToAction("CategoriesCreateEdit");
             //}
-
-            if (model is null || model.Id == 0)
+            try
+            {
+                if (category is null || category.Id == 0)
             {
                 //_context.Categories.Name = model.Name;
                 //_context.Categories.Description = model.Description;
@@ -137,16 +204,19 @@ namespace FirstMVCapp.Controllers
                 //_context.SaveChanges();
 
 
-                _context.Categories.Add(model);
-                _context.SaveChanges();
+                _categoryServices.AddCategory(category);
             }
             else
             {
-                _context.Categories.Update(model);
-                _context.SaveChanges();
+                _categoryServices.UpdateCategory(category);
             }
 
             return RedirectToAction("Categories");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         //public IActionResult CategoriesEdit(int Id)
@@ -160,14 +230,19 @@ namespace FirstMVCapp.Controllers
 
         public IActionResult CategoriesDelete(int Id)
         {
-            if (Id != null)
+            try
             {
-                var DeleteCategory = _context.Categories.FirstOrDefault(i => i.Id == Id);
-                _context.Categories.Remove(DeleteCategory);
-                _context.SaveChanges();
+                if (Id != null)
+            {
+                _categoryServices.DeleteCategory(Id);
             }
 
             return RedirectToAction("Categories");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         ///////////////////////////////////////////////////////////////////////////////////
@@ -244,42 +319,57 @@ namespace FirstMVCapp.Controllers
         //    return RedirectToAction("Customers");
         //}
         ///////////////////////////////////////////////////////////////////////////////////
-        
+
         public IActionResult ProductDetails(int Id)
         {
-
-            if (Id != null)
+            try
             {
-                var BuyProduct = _context.Products.FirstOrDefault(i => i.Id == Id);
+                if (Id != null)
+            {
+                var BuyProduct=_productServices.GetProductById(Id);
                 return View(BuyProduct);
             }
-                return View();
+            return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
         ///////////////////////////////////////////////////////////////////////////////////
-        
+
         public IActionResult DecideAction(string actions, int id, int QuantityVariable)
         {
-            switch  (actions)
+            try
             {
-            case "Buy Now":
-                    return RedirectToAction("BuyNow", new { id= id, QuantityVariable = QuantityVariable });
-            case "Add to Cart" :
-                    return RedirectToAction("MyCart", new { id = id, QuantityVariable = QuantityVariable });
-            default:
+                switch (actions)
+            {
+                case "Buy Now":
+                    return RedirectToAction("BuyNow", new { id, QuantityVariable });
+                case "Add to Cart":
+                    return RedirectToAction("MyCart", new { id, QuantityVariable });
+                default:
                     //if no action then route to Home page
                     return RedirectToAction("index");
+            }
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
             }
         }
 
 
         public IActionResult BuyNow(int Id, int QuantityVariable)
         {
-            var SelectedProduct = _context.Products.FirstOrDefault(p => p.Id == Id);
+            try
+            {
+                var SelectedProduct = _productServices.GetProductById(Id);
 
             var model = new CartProductViewModel
             {
                 CartProperty = new MyCart { ProductId = Id, SelectedQuantity = QuantityVariable },
-                ProdProperty = new Product {Id= SelectedProduct.Id, Name = SelectedProduct.Name, Price = SelectedProduct.Price, Discount = SelectedProduct.Discount }
+                ProdProperty = new Product { Id = SelectedProduct.Id, Name = SelectedProduct.Name, Price = SelectedProduct.Price, Discount = SelectedProduct.Discount }
             };
 
             List<CartProductViewModel> CartProductViewModel1 = new List<CartProductViewModel>();
@@ -289,36 +379,41 @@ namespace FirstMVCapp.Controllers
             TempData["CartProductModel"] = JsonConvert.SerializeObject(CartProductViewModel1);
             return RedirectToAction("Payment");
 
-            //return Ok();
-            //return RedirectToAction("BuyNow")                                                                                         
+                //return Ok();
+                //return RedirectToAction("BuyNow")                                                                                         
 
-            //In no action then go to HOME
-            //return RedirectToAction("Index");
-
+                //In no action then go to HOME
+                //return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
 
         public IActionResult MyCart(int Id, int QuantityVariable)
         {
-            if (String.IsNullOrEmpty( HttpContext.Session.GetString("Role")))
+            try
+            {
+                if (string.IsNullOrEmpty(HttpContext.Session.GetString("Role")))
             {
                 return Unauthorized("Please login to your account before using this feature.");
             }
 
             if (Id != 0 && QuantityVariable != 0)
             {
-                var SelectedProduct = _context.Products.FirstOrDefault(i => i.Id == Id);
+                var SelectedProduct = _productServices.GetProductById(Id);
 
                 if (SelectedProduct != null) // To Just Ensure the product exists
                 {
-                    var AlreadyPresentInCart = _context.MyCartItems.FirstOrDefault(i => i.Id == Id);
-                    
+                    var AlreadyPresentInCart = _myCartServices.GetMyCartById(Id);
+
                     if (AlreadyPresentInCart is null) //if not present already
-                    { 
+                    {
                         var NewCartItem = new MyCart { ProductId = SelectedProduct.Id, SelectedQuantity = QuantityVariable };
 
-                        _context.MyCartItems.Add(NewCartItem);
-                        _context.SaveChanges();
+                        _myCartServices.AddMyCart(NewCartItem);
                     }
                 }
             }
@@ -346,39 +441,51 @@ namespace FirstMVCapp.Controllers
             //}
 
             //return View(AllMyCartItemsDetails);
+            
+            var CartProductViewModel = _CartProductViewModelServices.GetAllCartProductViewModel(_productServices);
 
-
-            var CartProductViewModels = _context.MyCartItems.Select(cart => new CartProductViewModel
+            return View(CartProductViewModel);
+            }
+            catch (Exception ex)
             {
-                CartProperty= cart,
-                ProdProperty = _context.Products.FirstOrDefault(p => p.Id == cart.ProductId)
-            }).ToList();    
-
-            return View(CartProductViewModels);
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         public IActionResult MyCartEditForm(List<CartProductViewModel> model)
         {
-            //TempData["fromCart"] = "YES";
-            TempData["CartProductModel"] = JsonConvert.SerializeObject(model);
+            try
+            {
+                //TempData["fromCart"] = "YES";
+                TempData["CartProductModel"] = JsonConvert.SerializeObject(model);
             return RedirectToAction("Payment");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         public IActionResult MyCartDeleteForm(int Id)
         {
-
-            if (Id != 0 )
+            try
             {
-                var ToBeDeletedCartItem = _context.MyCartItems.FirstOrDefault(i => i.Id == Id);
+                if (Id != 0)
+            {
+                var ToBeDeletedCartItem = _myCartServices.GetMyCartById(Id);
 
                 if (ToBeDeletedCartItem != null) // To Just Ensure the Cart item exists
                 {
-                        _context.MyCartItems.Remove(ToBeDeletedCartItem);
-                        _context.SaveChanges();
+                    _myCartServices.DeleteMyCart(Id);
                 }
             }
 
             return RedirectToAction("MyCart");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         ///////////////////////////////////////////////////////////////////////////////////
@@ -386,90 +493,88 @@ namespace FirstMVCapp.Controllers
         public IActionResult Payment()
         {
 
-            if (String.IsNullOrEmpty(HttpContext.Session.GetString("Role")))
+            try
             {
-                return Unauthorized("Please login to your account before using this feature.");
-            }
 
-            //string fromCart = (string) TempData["fromCart"];
-            if (TempData["CartProductModel"] is not null)
-            { 
-                string CartProductModel = (string) TempData["CartProductModel"];
-                List<CartProductViewModel> CartProductViewModel1 = JsonConvert.DeserializeObject<List<CartProductViewModel>>(CartProductModel);
-            
+                if (string.IsNullOrEmpty(HttpContext.Session.GetString("Role")))
+                {
+                    return Unauthorized("Please login to your account before using this feature.");
+                }
 
-                decimal firstTotal = 0;
-                decimal amountAfterDiscount = 0;
-                string InvoiceSummary = "";
                 decimal GrandTotal = 0;
+                //string fromCart = (string) TempData["fromCart"];
+                if (TempData["CartProductModel"] is not null)
+                {
+                    string CartProductModel = (string)TempData["CartProductModel"];
 
-
-                //switch (fromCart)
-                //{
-                //    case "YES":
-                //    case "NO":
-                //SET ViewBag.InvoiceSummary
-                //var GrandTotal = _context.MyCartItems.Sum(x => x.SelectedQuantity);
-                //ViewBag.GrandTotal = GrandTotal;
-                //return View();
-                if (CartProductViewModel1 is not null)
-                { 
-                    foreach (var modelItem in CartProductViewModel1)
+                    if (CartProductModel != null)
                     {
-                        //if (model.CartProperty.selectedQuantity[i] != 0)
-                        //{
-                        //    var SelectedProduct = _context.Products.FirstOrDefault(x => x.Id == model.CartProperty.Id[i]);
+                        var PaymentLogic = new PaymentBusinessLogic();
+                        List<CartProductViewModel> CartProductViewModel1 = PaymentLogic.CalculatePayment(CartProductModel, ref GrandTotal);
 
-                        //    if (SelectedProduct != null) // To Just Ensure the product exists
-                        //    {
-
-
-                                firstTotal = modelItem.ProdProperty.Price * modelItem.CartProperty.SelectedQuantity;
-                                amountAfterDiscount = firstTotal * modelItem.ProdProperty.Discount / 100;
-
-                                //if (InvoiceSummary != "") { InvoiceSummary = InvoiceSummary + "<br/>"; }
-                                //InvoiceSummary = InvoiceSummary + modelItem.ProdProperty.Name + " x " + modelItem.CartProperty.SelectedQuantity + "units = Rs." + firstTotal + ".  After " + modelItem.ProdProperty.Discount + "% discount => Rs." + amountAfterDiscount + ".";
-                                GrandTotal += amountAfterDiscount;
-
-                                
-                        //    }
+                        ViewBag.GrandTotal = GrandTotal;
+                        //ViewBag.InvoiceSummary = InvoiceSummary;
+                        return View(CartProductViewModel1);
+                        //case "NO":
+                        //ViewBag.GrandTotal = GrandTotalPassed;
+                        //ViewBag.InvoiceSummary = InvoiceSummaryPassed;
+                        //        return View();
+                        //    default: 
+                        //        return RedirectToAction("Index");
                         //}
                     }
                 }
-
-                ViewBag.GrandTotal = GrandTotal;
-                //ViewBag.InvoiceSummary = InvoiceSummary;
-                return View(CartProductViewModel1);
-                //case "NO":
-                //ViewBag.GrandTotal = GrandTotalPassed;
-                //ViewBag.InvoiceSummary = InvoiceSummaryPassed;
-                //        return View();
-                //    default: 
-                //        return RedirectToAction("Index");
-                //}
+                return Index();
             }
-            return Index();
+            catch (CustomAppException ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "Custom ErrorMessage: " + ex.Message, ErrorStackTrace = "Custom ErrorStackTrace: " + ex.StackTrace });
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
 
         public IActionResult Success(string PaymentOpt)
         {
-            var userInfo = _context.Users.FirstOrDefault(u => u.UserName == User.Identity.Name);
+            try
+            {
+                var userInfo = _userServices.GetUserByName(User.Identity.Name);
             ViewBag.PaymentOpt = PaymentOpt;
             return View(userInfo);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
         ///////////////////////////////////////////////////////////////////////////////////
 
 
         public IActionResult Privacy()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        //public IActionResult Error()
+        //{
+        //    return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        //}
+        public IActionResult Error(String ErrorMessage, String ErrorStackTrace)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+           
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier, Message=ErrorMessage, StackTrace=ErrorStackTrace });
+            
         }
     }
 }

@@ -1,12 +1,15 @@
-﻿using FirstMVCapp.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Security.Claims;
 using System.Security.Cryptography;
+using ShoppingKart.DAL.Data;
+using ShoppingKart.BLL.Services;
+using ShoppingKart.Core.Models;
+using ShoppingKart.Core.Exceptions;
 
-namespace FirstMVCapp.Controllers
+namespace ShoppingKart.UI.Controllers
 {
     public class AccountController : Controller
     {
@@ -20,7 +23,14 @@ namespace FirstMVCapp.Controllers
         // Show the Login form
         public IActionResult LoginForm()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         // Handle Login form submission
@@ -28,8 +38,10 @@ namespace FirstMVCapp.Controllers
         //public async Task<IActionResult> Login(string Username, string Password, bool RememberMe)
         public async Task<IActionResult> Login(string Username, string Password)
         {
-            // Look up the user in the database
-            var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == Username);
+            try
+            {
+                // Look up the user in the database
+                var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == Username);
 
             if (user != null && user.PasswordHash == ComputeHash(Password))
             {
@@ -84,36 +96,60 @@ namespace FirstMVCapp.Controllers
             // Invalid login attempt
             TempData["ErrorMessage"] = "Invalid username or password.";
             return RedirectToAction("LoginForm");
+            }
+            catch (CustomAppException ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "Custom ErrorMessage: " + ex.Message, ErrorStackTrace = "Custom ErrorStackTrace: " + ex.StackTrace });
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         // Compute a SHA256 hash for the password
         private string ComputeHash(string input)
         {
-            using (var sha256 = SHA256.Create())
+            try
             {
-                var bytes = sha256.ComputeHash(System.Text.Encoding.UTF8.GetBytes(input));
-                return Convert.ToBase64String(bytes);
+                using (var sha256 = SHA256.Create())
+                {
+                    var bytes = sha256.ComputeHash(System.Text.Encoding.UTF8.GetBytes(input));
+                    return Convert.ToBase64String(bytes);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new CustomAppException(ex.Message);
             }
         }
 
         //Show User Profile
         public IActionResult Profile()
         {
-            var UserInfo = _context.Users.FirstOrDefault(x => x.UserName == User.Identity.Name);
-
-            if (UserInfo is not null)
+            try
             {
-                return View(UserInfo);
+                var UserInfo = _context.Users.FirstOrDefault(x => x.UserName == User.Identity.Name);
+
+                if (UserInfo is not null)
+                {
+                    return View(UserInfo);
+                }
+                return RedirectToAction("Index");
             }
-            return View("Index");
-;       }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
+        }
 
         //Submit User Profile Edit Form
         public IActionResult UserProfileEditForm(User model)
         {
+            try
+            {
+                var UserInfo = _context.Users.FirstOrDefault(x => x.UserName == model.UserName);
 
-            var UserInfo = _context.Users.FirstOrDefault(x => x.UserName == model.UserName);
-            
             if (UserInfo is not null)
             {
                 UserInfo.FullName = model.FullName;
@@ -126,30 +162,51 @@ namespace FirstMVCapp.Controllers
                 _context.SaveChanges();
             }
             return RedirectToAction("Index", "Home");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         // Handle Logout
         public async Task<IActionResult> Logout()
         {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            try
+            {
+                await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
-            HttpContext.Session.SetString("Username", "");
-            HttpContext.Session.SetString("Role", "");
-            TempData["SuccessMessage"] = "Logged out successfully!";
-            return RedirectToAction("LoginForm");
+                HttpContext.Session.SetString("Username", "");
+                HttpContext.Session.SetString("Role", "");
+                TempData["SuccessMessage"] = "Logged out successfully!";
+                return RedirectToAction("LoginForm");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace});
+            }
         }
 
         [HttpGet]
         public IActionResult SignUp()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
 
         [HttpPost]
         public IActionResult SignUpForm(string Username, string Password, string FullName, string Email, string PhoneNum, string Address)
         {
-            // Check if the username already exists
-            var existingUser = _context.Users.FirstOrDefault(x => x.UserName == Username);
+            try
+            {
+                // Check if the username already exists
+                var existingUser = _context.Users.FirstOrDefault(x => x.UserName == Username);
             if (existingUser != null)
             {
                 TempData["ErrorMessage"] = "Username already exists. Please choose a different one.";
@@ -167,8 +224,8 @@ namespace FirstMVCapp.Controllers
                 Role = "User", // Default role
                 FullName = FullName,
                 Email = Email,
-                PhoneNum =PhoneNum,
-                Address= Address
+                PhoneNum = PhoneNum,
+                Address = Address
             };
 
             // Save the user in the database
@@ -177,19 +234,24 @@ namespace FirstMVCapp.Controllers
 
             TempData["SuccessMessage"] = "Account created successfully! You can now log in.";
             return RedirectToAction("LoginForm");
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Error", "Home",new { ErrorMessage = "ErrorMessage: " + ex.Message, ErrorStackTrace = "ErrorStackTrace: " + ex.StackTrace });
+            }
         }
-       
+
     }
 }
 
 
 
-//using FirstMVCapp.Models;
+//using ShoppingKart.Core.Models;
 //using Microsoft.AspNetCore.Mvc;
 //using Microsoft.EntityFrameworkCore;
 //using System.Security.Cryptography;
 
-//namespace FirstMVCapp.Controllers
+//namespace ShoppingKart.UI.Controllers
 //{
 //    public class AccountController : Controller
 //    {

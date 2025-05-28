@@ -1,0 +1,15 @@
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\bin\Release\net8.0\ShoppingKart.Core.deps.json
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\bin\Release\net8.0\ShoppingKart.Core.runtimeconfig.json
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\bin\Release\net8.0\ShoppingKart.Core.dll
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\bin\Release\net8.0\ShoppingKart.Core.pdb
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.csproj.AssemblyReference.cache
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.AssemblyInfoInputs.cache
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.AssemblyInfo.cs
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.csproj.CoreCompileInputs.cache
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.sourcelink.json
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.dll
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\refint\ShoppingKart.Core.dll
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.pdb
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ShoppingKart.Core.genruntimeconfig.cache
+C:\Kiran Kumar\DEVELOPMENT\CODE\Copy & Develop GIT local Repo project Here\ShoppingKart - 02-03-2025  12-05 PM\ShoppingKart.Core\obj\Release\net8.0\ref\ShoppingKart.Core.dll

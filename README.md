@@ -84,3 +84,46 @@ Configured for services like DbContext and application-specific dependencies.
 
 #Conclusion:
 The ShoppingKart application provides a comprehensive shopping experience with robust architecture, efficient data handling, and clean UI design. It’s a scalable solution with room for enhancements like categorize & show products as per user interesets, provide search & filter options, add additional payment gateways etc.
+
+
+
+
+# Screenshots
+Below are key screenshots showcasing different pages of the application.
+
+## **Categories Page**
+![Categories Page](wwwroot/images/Project%20Screenshots/CategoriesPage.png)
+
+## **Create/Edit Categories Page**
+![Create/Edit Categories Page](wwwroot/images/Project%20Screenshots/CreateEditCategoriesPage.png)
+
+## **Create/Edit Products Page**
+![Create/Edit Products Page](wwwroot/images/Project%20Screenshots/CreateEditProductsPage.png)
+
+## **Home Page**
+![Home Page - View 1](wwwroot/images/Project%20Screenshots/HomePage_1.png)  
+![Home Page - View 2](wwwroot/images/Project%20Screenshots/HomePage_2.png)
+
+## **Login Page**
+![Login Page](wwwroot/images/Project%20Screenshots/LoginPage.png)
+
+## **My Cart Page**
+![My Cart Page](wwwroot/images/Project%20Screenshots/MyCartPage.png)
+
+## **Payment Options Page**
+![Payment Options Page](wwwroot/images/Project%20Screenshots/PaymentOptionsPage.png)
+
+## **Payment Success Page**
+![Payment Success Page](wwwroot/images/Project%20Screenshots/PaymentSuccessPage.png)
+
+## **Product Details Page**
+![Product Details](wwwroot/images/Project%20Screenshots/ProductDetails_2.png)
+
+## **Products Page**
+![Products Page](wwwroot/images/Project%20Screenshots/ProductsPage.png)
+
+## **Profile Page**
+![Profile Page](wwwroot/images/Project%20Screenshots/ProfilePage.png)
+
+## **Sign-Up Page**
+![Sign-Up Page](wwwroot/images/Project%20Screenshots/SignUpPage.png)

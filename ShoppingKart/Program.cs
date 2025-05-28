@@ -1,6 +1,10 @@
-using FirstMVCapp.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using ShoppingKart.BLL.Services;
+using ShoppingKart.Core.Interfaces;
+using ShoppingKart.DAL.Data;
+using ShoppingKart.DAL.Repository;
+using ShoppingKart.DAL.UnitOfWork;
 
 namespace FirstMVCapp
 {
@@ -15,7 +19,7 @@ namespace FirstMVCapp
 
             // Configure Entity Framework with SQL Server
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("ShoppingKart.UI")));
 
             // Add session services
             builder.Services.AddDistributedMemoryCache(); // Required for session state
@@ -33,6 +37,23 @@ namespace FirstMVCapp
                     options.LoginPath = "/Account/Login"; // Redirect to this path for unauthenticated access
                     options.AccessDeniedPath = "/Account/AccessDenied"; // Redirect here if access is denied
                 });
+
+            // Register Services (BLL Layer)
+            builder.Services.AddScoped<IProductServices, ProductServices>();
+            builder.Services.AddScoped<ICategoryServices, CategoryServices>();
+            builder.Services.AddScoped<IMyCartServices, MyCartServices>();
+            builder.Services.AddScoped<IUserServices, UserServices>();
+            builder.Services.AddScoped<ICartProductViewModelServices, CartProductViewModelServices>();
+
+            // Register Repositories (DAL Layer)
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IMyCartRepository, MyCartRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<ICartProductViewModelRepository, CartProductViewModelRepository>();
+
+            // Register Unit of Work
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             var app = builder.Build();
 
@@ -64,7 +85,7 @@ namespace FirstMVCapp
 
 
 
-//using FirstMVCapp.Models;
+//using ShoppingKart.Core.Models;
 //using Microsoft.EntityFrameworkCore;
 //using Microsoft.EntityFrameworkCore.Design;
 //using Microsoft.EntityFrameworkCore.SqlServer;

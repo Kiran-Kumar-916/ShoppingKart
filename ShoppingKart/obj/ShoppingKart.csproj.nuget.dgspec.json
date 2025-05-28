@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kiran Kumar\\DEVELOPMENT\\GIT Local Repo\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj": {}
+    "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy & Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart\\ShoppingKart.csproj": {}
   },
   "projects": {
-    "C:\\Kiran Kumar\\DEVELOPMENT\\GIT Local Repo\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj": {
+    "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy & Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart\\ShoppingKart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kiran Kumar\\DEVELOPMENT\\GIT Local Repo\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
+        "projectUniqueName": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy & Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart\\ShoppingKart.csproj",
         "projectName": "ShoppingKart",
-        "projectPath": "C:\\Kiran Kumar\\DEVELOPMENT\\GIT Local Repo\\ShoppingKart\\ShoppingKart\\ShoppingKart.csproj",
+        "projectPath": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy & Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart\\ShoppingKart.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Kiran Kumar\\DEVELOPMENT\\GIT Local Repo\\ShoppingKart\\ShoppingKart\\obj\\",
+        "outputPath": "C:\\Kiran Kumar\\DEVELOPMENT\\CODE\\Copy & Develop GIT local Repo project Here\\ShoppingKart - 26-2-2025  11-09 AM\\ShoppingKart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

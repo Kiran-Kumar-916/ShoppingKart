@@ -5,13 +5,17 @@
 
 <h1 class="text-danger">Error.</h1>
 <h2 class="text-danger">An error occurred while processing your request.</h2>
+<h2 class="text-danger">@Model.Message</h2> <!--kim cr-->
+<h2 class="text-danger">@Model.StackTrace</h2> <!--kim cr-->
 
-@if (Model.ShowRequestId)
+@* kim cr s*@
+@* @if (Model.ShowRequestId)
 {
     <p>
         <strong>Request ID:</strong> <code>@Model.RequestId</code>
     </p>
-}
+} *@
+@* kim cr*@
 
 <h3>Development Mode</h3>
 <p>

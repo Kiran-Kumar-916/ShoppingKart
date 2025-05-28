@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAP/FGDsLnqUmlkm4xMFd0mQAAAAACAAAAAAAQZgAAAAEAACAAAAA1VfCgW7nILlWZdSK2uzlgCiMKBwtH7oX2tLZ+SshQNgAAAAAOgAAAAAIAACAAAABlCwTMs5jtGmaSZM06kT9y/3dOyeKnHmc1DW5EhphRkIAAAABcoKreFLFBQVPG9Evltozsj30nrBWthVC1XY2gXdZct4fRMBS1apGuR/YYSbLt9RIxa+sH7tUSDPRRk2/FLucgs1W1B4oHG5WSxS7c0I0ApeLcVnjRQDsKBNPqxo312OVyEF33mfqmtXJityo9l7gSrrmzCJkUQ8QgviC8jEVBtUAAAACIhv2EC/paMJvdu7rXlrON4nOLgX4n8m8XDWzcipe1O65i+oAZJtwq6Emw3BoUA4eyU4nijGX9MiDMm3mCw+nH</EncryptedPassword>
+    <History>True|2025-05-27T20:18:53.0870341Z||;True|2025-05-28T01:34:12.5725080+05:30||;True|2025-05-28T00:13:58.5832249+05:30||;True|2025-05-27T23:54:17.8938103+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:sql-server-kiran.database.windows.net,1433%3bInitial Catalog=ShoppingKart%3bPersist Security Info=False%3bUser ID=user1%3bPassword=Password1%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=True%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

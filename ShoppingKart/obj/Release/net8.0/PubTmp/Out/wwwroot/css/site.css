@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*kim cr s*/
+/* Global background style for all pages */
+body {
+    background: linear-gradient(to bottom right, #cce5ff, #80b3ff, #007bff); /* Vibrant blue gradient */
+    font-family: Arial, sans-serif;
+    color: #333; /* Dark text color for readability */
+}
+
+/* Optional: Style for page content to make it stand out on the background */
+.container, .page-content {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white for content areas */
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Optional: Apply background to header and footer */
+header, footer {
+    background-color: #ff0000 /*background-color: #0056b3;*/ /* Darker shade of blue for header and footer */
+    color: white;
+    padding: 20px;
+}
+/*kim cr*/
